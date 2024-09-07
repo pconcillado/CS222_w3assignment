@@ -1,12 +1,21 @@
 h1 {
+    font-size: 10em;
     text-align: left;
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+body {
+    color: black;
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 p {
     font-size: 2.1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     text-align: left;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
